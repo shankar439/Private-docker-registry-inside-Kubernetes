@@ -1,0 +1,1 @@
+# Private-docker-registry-inside-Kubernetes
