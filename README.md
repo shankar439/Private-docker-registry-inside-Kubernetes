@@ -1,7 +1,7 @@
 <h1 align="center"> Kubernetes </h1>
 <h2 align="center"> Hosting a Private Docker registry in kubernetes</h2>
 
-![imagegit](https://github.com/shankar439/Images/assets/70714976/2b7ca6dd-a6cc-4498-b89f-84977efaa5a5)
+![imagegit](https://github.com/shankar439/Images/assets/70714976/61c1d6e5-72d8-4de1-bb22-7428f734cb79)
 ### Benifits of Hosting our own Docker Registry in Kubernetes.
   - choose wisely accroding to your requirement
   - ### Pros
